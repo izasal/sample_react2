@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/izasal/sample_react2/static/css/main.31d6cfe0.css",
+    "main.js": "/izasal/sample_react2/static/js/main.5692dc1f.js",
+    "static/media/a.jpg": "/izasal/sample_react2/static/media/a.a408a3ff13fae7dd40b0.jpg",
+    "static/media/c.jpg": "/izasal/sample_react2/static/media/c.b3e0022e23bbc8250a12.jpg",
+    "static/media/three.jpg": "/izasal/sample_react2/static/media/three.14da3b74b3df94cd34e0.jpg",
+    "static/media/two.jpg": "/izasal/sample_react2/static/media/two.b36acaf267e6c018e8f6.jpg",
+    "static/media/b.jpg": "/izasal/sample_react2/static/media/b.734f25c0c1db334650c4.jpg",
+    "static/media/one.jpg": "/izasal/sample_react2/static/media/one.2c33f2bcc3b983dd29c7.jpg",
+    "index.html": "/izasal/sample_react2/index.html",
+    "main.5692dc1f.js.map": "/izasal/sample_react2/static/js/main.5692dc1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.5692dc1f.js"
+  ]
+}
